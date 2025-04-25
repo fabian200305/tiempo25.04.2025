@@ -1,4 +1,0 @@
-ortools
-SciPy
-PulP
-pyomo
